@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>cbat</id>
+    <version>0.1</version>
+    <title>CBat - Library to use bat code in C#</title>
+    <authors>Jack</authors>
+    <owners>jack-debug</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CBat allows you to use bat files and code in C#</description>
+    <releaseNotes>Prototype</releaseNotes>
+    <copyright>Copyright 2020 jack-debug</copyright>
+    <tags>bat csharp c</tags>
+    <summary>CBat allows you to use bat files and code in C#</summary>
+  </metadata>
+</package>
