@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace CBat
 {
-    public class BatchExecute
+    public class Execute
     {
-        public string BatchCode(string command)
+        public string Cmd(string command)
         {
             int exitCode;
             ProcessStartInfo processInfo;
@@ -30,26 +30,16 @@ namespace CBat
             string error = process.StandardError.ReadToEnd();
 
             exitCode = process.ExitCode;
+            string exitcode = exitCode.ToString();
 
             process.Close();
 
-            return output;
+            return exitcode;
         }
         public string BatchFile(string filepath)
         {
-            using (var fs = new FileStream(filepath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
-            using (var reader = new StreamReader(fs))
-            {
-                string line;
-                while ((line = reader.ReadLine()) != null)
-                {
-                    string[] lineInfo = line.Split(' ');
-                    string NumbersTemp = lineInfo[1];
-                    BatchCode(NumbersTemp);
-                }
-            }
-            string returne = "Done";
-            return returne;
+            System.Diagnostics.Process.Start(filepath);
+            return "BatchFile executed";
         }
     }
 }

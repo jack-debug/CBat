@@ -3,3 +3,4 @@ C:\Users\stant\source\repos\CBat\bin\Debug\CBat.pdb
 C:\Users\stant\source\repos\CBat\obj\Debug\CBat.csproj.CoreCompileInputs.cache
 C:\Users\stant\source\repos\CBat\obj\Debug\CBat.dll
 C:\Users\stant\source\repos\CBat\obj\Debug\CBat.pdb
+C:\Users\stant\source\repos\CBat\obj\Debug\CBat.csprojAssemblyReference.cache
