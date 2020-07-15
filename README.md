@@ -1,5 +1,5 @@
 # CBat
-A C# library that runs batch code and files inside C#.
+A C# library that runs batch files and Windows shell commands inside C#.
 ## How to install
 1. Download the latest .dll from the releases page
 
@@ -17,6 +17,6 @@ A C# library that runs batch code and files inside C#.
 Now you're done!
 
 ## What does what?
-`bat.BatchCode();` - enter one batch line to execute inside the brackets.
+`bat.Cmd();` - enter a cmd command to execute inside the brackets.
 
 `bat.BatchFile();` - enter the file path to a batch file inside the brackets.
