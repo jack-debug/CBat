@@ -7,16 +7,16 @@ A C# library that runs batch code and files inside C#.
 
 3. Click on Browse and find the CBat.dll file then click ok.
 
-4. To use inside a C# file you reference it by typing ` ` ` using CBat; ` ` `
+4. To use inside a C# file you reference it by typing ` using CBat; `
 
 ## How to use
-1. First, make sure you reference CBat in your C# file ` ` ` using CBat; ` ` `
+1. First, make sure you reference CBat in your C# file ` using CBat; `
 
-2. Put this inside of a void/method. ` ` ` BatchExecute bat = new BatchExecute(); ` ` `
+2. Put this inside of a void/method. ` BatchExecute bat = new BatchExecute(); `
 
 Now you're done!
 
 ## What does what?
-` ` ` bat.BatchCode(); ` ` ` - enter one batch line to execute inside the brackets.
+`bat.BatchCode();` - enter one batch line to execute inside the brackets.
 
-` ` ` bat.BatchFile(); ` ` ` - enter the file path to a batch file inside the brackets.
+`bat.BatchFile();` - enter the file path to a batch file inside the brackets.
