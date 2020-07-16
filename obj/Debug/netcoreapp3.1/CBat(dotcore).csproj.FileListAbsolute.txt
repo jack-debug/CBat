@@ -1,0 +1,9 @@
+C:\Users\stant\source\repos\CBat(dotcore)\obj\Debug\netcoreapp3.1\CBat(dotcore).csprojAssemblyReference.cache
+C:\Users\stant\source\repos\CBat(dotcore)\obj\Debug\netcoreapp3.1\CBat(dotcore).AssemblyInfoInputs.cache
+C:\Users\stant\source\repos\CBat(dotcore)\obj\Debug\netcoreapp3.1\CBat(dotcore).AssemblyInfo.cs
+C:\Users\stant\source\repos\CBat(dotcore)\obj\Debug\netcoreapp3.1\CBat(dotcore).csproj.CoreCompileInputs.cache
+C:\Users\stant\source\repos\CBat(dotcore)\bin\Debug\netcoreapp3.1\CBat(dotcore).deps.json
+C:\Users\stant\source\repos\CBat(dotcore)\bin\Debug\netcoreapp3.1\CBat(dotcore).dll
+C:\Users\stant\source\repos\CBat(dotcore)\bin\Debug\netcoreapp3.1\CBat(dotcore).pdb
+C:\Users\stant\source\repos\CBat(dotcore)\obj\Debug\netcoreapp3.1\CBat(dotcore).dll
+C:\Users\stant\source\repos\CBat(dotcore)\obj\Debug\netcoreapp3.1\CBat(dotcore).pdb

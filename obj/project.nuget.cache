@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "WLNNMl45kug+aM6WDXVdgP+XQJbXwqzkMAeZGxL17kB22XvNFf3jxSOr2LSlMJDsi1g8tZEg/RKzuJPPgOj1Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stant\\source\\repos\\CBat(dotcore)\\CBat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stant\\.nuget\\packages\\microsoft.powershell.5.referenceassemblies\\1.1.0\\microsoft.powershell.5.referenceassemblies.1.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.PowerShell.5.ReferenceAssemblies 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.PowerShell.5.ReferenceAssemblies",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
