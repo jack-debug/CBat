@@ -23,4 +23,4 @@ Now you're done!
 
 `bat.Bash();` - enter a bash command inside the brackets
 
-`bat.PowerShellCmd` - enter a powershell command inside the brackets
+`bat.PowerShellCmd();` - enter a powershell command inside the brackets
